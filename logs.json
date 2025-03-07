@@ -1,0 +1,14 @@
+[
+    {
+        "timestamp": "2025-03-06T19:53:09.602833",
+        "action": "UPLOAD_PHOTO",
+        "user": "Alice",
+        "details": "Uploaded sample.jpg"
+    },
+    {
+        "timestamp": "2025-03-06T20:14:49.705581",
+        "action": "UPLOAD_PHOTO",
+        "user": "Alice",
+        "details": "Uploaded sample.jpg"
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "timestamp": "2025-03-06T20:47:34.989925",
+        "action": "UPLOAD_PHOTO",
+        "user": "Alice",
+        "details": "Uploaded sample.jpg"
+    },
+    {
+        "timestamp": "2025-03-06T20:50:45.474184",
+        "action": "UPLOAD_PHOTO",
+        "user": "Alice",
+        "details": "Uploaded sample.jpg"
+    },
+    {
+        "timestamp": "2025-03-06T20:55:12.848702",
+        "action": "UPLOAD_PHOTO",
+        "user": "Alice",
+        "details": "Uploaded sample.jpg"
+    },
+    {
+        "timestamp": "2025-03-06T20:57:35.187476",
+        "action": "UPLOAD_PHOTO",
+        "user": "Alice",
+        "details": "Uploaded sample.jpg"
+    },
+    {
+        "timestamp": "2025-03-06T21:03:42.309012",
+        "action": "UPLOAD_PHOTO",
+        "user": "Alice",
+        "details": "Uploaded sample.jpg"
+    }
+]
